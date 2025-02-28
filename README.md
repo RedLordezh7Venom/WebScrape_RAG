@@ -5,7 +5,7 @@ Using RAG for better retrieval of scraped data and putting it into specified for
 The goal:
 -structure
 -analysing text better,
--bypassing robots.txt
+-bypassing robots.txt 
 -using vision transformers for image to text
 
 -Gemini
