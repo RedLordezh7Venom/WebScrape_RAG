@@ -8,6 +8,8 @@ The goal:
 -bypassing robots.txt 
 -using vision transformers for image to text
 
+Using RAG for conversion of raw data into structured format for data creation and engineering
+
 -Gemini
 -Beatiful Soup    
 ### SERP_API
